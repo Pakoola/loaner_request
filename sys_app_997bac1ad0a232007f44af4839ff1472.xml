@@ -7,7 +7,7 @@
         <licensable>true</licensable>
         <license_model>none</license_model>
         <logo/>
-        <menu display_value="Loaner Request">297ba49ad0a232007f44af4839ff14ec</menu>
+        <menu display_value="Loaner Requests">297ba49ad0a232007f44af4839ff14ec</menu>
         <name>Loaner Request</name>
         <private>false</private>
         <restrict_table_access>false</restrict_table_access>
