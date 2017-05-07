@@ -2,12 +2,12 @@
 <record_update table="sys_push_notif_app_install">
     <sys_push_notif_app_install action="INSERT_OR_UPDATE">
         <active>true</active>
-        <last_registered_on>2017-05-07 18:17:25</last_registered_on>
+        <last_registered_on>2017-05-07 19:30:45</last_registered_on>
         <sys_class_name>sys_push_notif_app_install</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2017-05-07 18:17:25</sys_created_on>
+        <sys_created_on>2017-05-07 19:30:45</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
-        <sys_id>7f601d92d0e232007f44af4839ff14bd</sys_id>
+        <sys_id>8e3129d6d0e232007f44af4839ff143c</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>falwL3Y9q3c:APA91bEXB-u1ypa3LtuEXA8ArNI1IC6Y8QYkA_WoiK8HsR55cANNudyTp2FS1UBtGTuy9PJPd2EuOvrhXSRumpLa0b9sB3KGfjZ7SLIZ9Qk8WG-CXYTUJ9WlHqv44Gdl0Cp-iRBqVLt9</sys_name>
         <sys_package display_value="Loaner Request" source="x_snc_loaner_reque">997bac1ad0a232007f44af4839ff1472</sys_package>
@@ -16,9 +16,9 @@
         <sys_push_platform_id display_value="Google">53e75f30ff0002009738ffffffffff12</sys_push_platform_id>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Loaner Request">997bac1ad0a232007f44af4839ff1472</sys_scope>
-        <sys_update_name>sys_push_notif_app_install_7f601d92d0e232007f44af4839ff14bd</sys_update_name>
+        <sys_update_name>sys_push_notif_app_install_8e3129d6d0e232007f44af4839ff143c</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-05-07 18:17:25</sys_updated_on>
+        <sys_updated_on>2017-05-07 19:30:45</sys_updated_on>
         <sys_user_id display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</sys_user_id>
         <token>falwL3Y9q3c:APA91bEXB-u1ypa3LtuEXA8ArNI1IC6Y8QYkA_WoiK8HsR55cANNudyTp2FS1UBtGTuy9PJPd2EuOvrhXSRumpLa0b9sB3KGfjZ7SLIZ9Qk8WG-CXYTUJ9WlHqv44Gdl0Cp-iRBqVLt9</token>
     </sys_push_notif_app_install>
